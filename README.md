@@ -4,7 +4,7 @@
 
 ## Welcome
 
-<a href="#"><small>back to top</small></a>
+<a href="#"><sub><sup>back to top</sub></sup></a>
 
 This guide is here to help you write your CV, nail your technical interviews and ultimately receive internship and job offers from your dream work place!
 
