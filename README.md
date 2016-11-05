@@ -1,7 +1,11 @@
 # internships-jobs-guide
 
+## Table of Contents
+
 - [Welcome](#welcome)
-- [Info about internships](#info-about-internships)
+- [Internships](#internships)
+- [Getting an internship](#getting-an-internship)
+- [Graduate Jobs](#graduate-jobs)
 - [Past interns](#past-interns)
 
 ## Welcome
@@ -16,8 +20,7 @@ The main goal of this guide is to help you, the students of St Andrews, discover
 
 The most important feature of this guide: you are more than welcome to add your own experiences, comments and opinions! We want this document to be a live and ever-growing helper created by people who can share their experience and knowledge!
 
-## Info about internships
-
+## Internships
 <a href="#"><sub><sup>back to top</sub></sup></a>
 
 ### What is an internship?
@@ -42,6 +45,122 @@ Another advantage is the fact that if you perform well during your internship, t
 
 Find all the info about the whole application process here.
 
-## Past Interns
+### Big companies vs Small ones
 
+## Getting an Internship
 <a href="#"><sub><sup>back to top</sub></sup></a>
+
+### The application process
+
+#### Where can I find internships?
+Companies have information about open internship positions on their websites as well as platforms like:
+
+- [Prospects](https://www.prospects.ac.uk/graduate-jobs)
+- [Graduate Talent Pool](https://graduatetalentpoolsearch.direct.gov.uk/gtp/index)
+- [TargetJob](https://targetjobs.co.uk/search/all#path=focus/ad_workexperience)
+
+Read your emails (expecially the ones coming from the school), the school blog, etc..
+
+#### How do I get started?
+
+Even before you start applying: start practising sample interview problems, expand your knowledge, participate in competitions and hackathons.
+
+Once you know what company to apply for: see what they want and compare it to what you can offer at the moment. You might need no learn something on your own or get more practice. Again, practice interview questions no matter what. You will need to polish up your CV or write it if you haven't written it yet. 
+
+Once you have applied, keep practising the interview questions. It is really the crucial part of the process. 
+
+#### When do I start?
+
+Different companies will have different application deadlines but a good idea would be to start as early as possible. Some companies open their applications in summer while the generally the interviews will happen in autumn. Although this varies from company to company.
+
+#### What to expect during the selection process?
+
+The first stage of the application process, where the CVs are screened, is also the last one for a lot of applicants. You should put a considerable amount of effort to make your CV look special, string and convincing. To see more information about how to write your CV, go [here](#writing-a-cv).
+
+#### How do I boost my chances of getting an interview?
+
+First of all, you have to convince whoever you want to hire you immediately that you are good at what you're doing. Most often the first point of contact with a company is through your CV. It means that you should make it look amazing. For more advice on CV-writing, read the appropriate [chapter](#writing-a-cv).
+
+Secondly, there are a lot of other ways how you can keep your online presence. The most popular is, [LinkedIn](https://www.linkedin.com/). It is a good idea to have an account there and keep it up-to-date. LinkedIn profile can act as a preview to your CV.
+
+#### What should I expect at a programming interview?
+
+Read more on how to handle an interview [here](#ace-the-interview)
+
+#### I tried, and tried, and tried, but still couldn’t get anything
+
+First, whenever you get rejected by a company, you should always ask them to give you some sort of a feedback. This won't always happen, but when it does, it can give you the valuable information about what needs improvement which you can later use. 
+
+Second, depending on the stage of the application process you were rejected at, you might want to improve either your CV, or practice more with the coding interview problems, or do more mock non-technical interviews which are also quite important. 
+
+## Graduate Jobs
+<a href="#"><sub><sup>back to top</sub></sup></a>
+
+Read more on how to handle an interview [here](#ace-the-interview)
+
+## Writing a CV
+<a href="#"><sub><sup>back to top</sub></sup></a>
+
+### Examples
+
+### Resources
+
+A list of useful books and online resources 
+
+## Ace the interview
+<a href="#"><sub><sup>back to top</sub></sup></a>
+
+### Resources
+
+This is a list of books and online resources that may come handy when preparing for an interview.
+
+- https://github.com/jwasham/google-interview-university
+
+## Past Interns
+<a href="#"><sub><sup>back to top</sub></sup></a>
+
+### Simone Ivan Conte (Adobe - Summer 2013)
+
+```
+Q: How did you find out about the opportunity ?
+A: I found out about this internship through the School of Computer Science Blog.
+
+Q: How did you apply ?
+A: The first process involved sending a CV with a covering letter. 
+
+Q: How were you selected ?
+A: After sending the CV (see above), I got an answer by email in order to schedule a phone interview. After 2-3 days I was contacted for an on-site interview at their office in Edinburgh. 
+
+The phone interview was mainly about my career plans and my computer science related interests and skills. I was also asked some technical questions, which did not require coding or algorithms. 
+
+The on-site interview was split into three sub-interviews of about 40-60 minutes each. The main topics of the interviews were problem solving, past projects critical discussions and software engineering (Agile, TDD, Scrum, etc)
+
+Q: Why were you successful?
+A: Being passionate is what probably helped me to be successful the most. This was my first experience in industry and the the first impact was hard. What matters is not giving up. 
+
+The good amount of work and deadlines at University has also helped me to handle the stress.
+
+Q: What skills/ knowledge from your degree have you found particularly helpful in this role?
+
+A: 
+- Software Engineering and JH Team Project have helped me with group work.
+- Data structures, algorithms, OOP (sub-hons), networks. 
+- Being able to quickly switch from one programming language to another. Flexibility is a skill that I learned especially in honours years. 
+
+Q: What have you been doing?
+A: I have been working mainly on two projects. The first one involved optimising high performance general networking library for one of their main products. The second project involved prototyping a new algorithms for another one of their main products. 
+
+I was working on both projects at the same time, giving priority to the first one since the code was actually to be pushed to production. 
+
+I was supervised by a Senior Computer Scientist. The projects also involved working closely to different teams in the office. 
+
+The environment at work was very friendly. Everyone was willing to help and discuss problems. 
+
+Some social events were also organized (i.e. a night at the Fringe festival). 
+
+Q: What are the main things you have gained from this experience?
+A: Confidence, team work communication, and being able to work on a large project. 
+I also improved my skills in C++ and learned Objective-C. 
+
+Edinburgh is a wonderful place, especially during the summer.
+```
