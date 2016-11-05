@@ -6,6 +6,8 @@
 - [Internships](#internships)
 - [Getting an internship](#getting-an-internship)
 - [Graduate Jobs](#graduate-jobs)
+- [Writing a CV](#writing-a-cv)
+- [Ace the interview](#ace-the-interview)
 - [Past interns](#past-interns)
 
 ## Welcome
