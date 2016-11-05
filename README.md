@@ -59,7 +59,9 @@ Companies have information about open internship positions on their websites as 
 - [Graduate Talent Pool](https://graduatetalentpoolsearch.direct.gov.uk/gtp/index)
 - [TargetJob](https://targetjobs.co.uk/search/all#path=focus/ad_workexperience)
 
-Read your emails (expecially the ones coming from the school), the school blog, etc..
+Read your emails (expecially the ones coming from the school), the school blog and talk to people. You could find opportunities within the school or by talking to people at events.
+
+Scotland has also a large pool of tech companies. Check the [Scottich Tech Map](https://docs.google.com/spreadsheets/d/1dAWR1pabLYIMMuZs5noi7OIOV-g8fzTl-FdzVXVYoCU/edit?usp=sharing) for a good list of such companies. 
 
 #### How do I get started?
 
@@ -103,12 +105,42 @@ Read more on how to handle an interview [here](#ace-the-interview)
 
 ### Examples
 
+Bad and good examples
+
 ### Resources
 
 A list of useful books and online resources 
 
 ## Ace the interview
 <a href="#"><sub><sup>back to top</sub></sup></a>
+
+### Dressing code
+
+We are computer scientists...but that does not mean that you should dress like a bag of trash for your interview. You want to feel confortable and not too tight. 
+
+### Behaviour
+
+### Technical interview
+
+#### How should I prepare?
+
+#### What skills are required?
+
+#### How is it going to happen?
+
+Companies do it in all sort of different ways, but generally, the schedule will be roughly the same. Your technical interview will last about an hour. You will most probably be asked to write a function, or, in some cases, more than just function. If you are doing the in-site interview, it will be on a whiteboard. If it is a Skype interview, you will be asked to do it in a text document which will be shared between you and the interviewer so they can see in live mode what you are doing. 
+
+After introducing themselves, the interviewer will describe a problem to you. The question is likely to be quite vague to encourage you to ask questions. You should do it, the interviewer is expecting them! It shows that you understand the question and a lot of your knowledge as well. If you do not understand the question at all, ask for more details. Sometimes having some examples will help you understand what is needed. 
+
+Take some ten seconds to think, but maybe it is even better if you do the thinking aloud because that gives the interviewer a lot of information about your thought process, unlike silence, which gives them nothing. And don't be afraid of thinking aloud - it is not bad if your initial thought is incorrect or naive as long as it progresses after that! Once you have an idea about how you are going to solve the problem, say it aloud to the interviewer. If it is incorrect, they will tell you that and try to help you direct your thoughts into the right direction. 
+
+Only after you have a good idea about how you are going to solve your problem should you start writing. If you are writing on a whiteboard, use your space wisely and start writing in the top left corner, but also leave some space between the lines in case you forget something. 
+
+Once you have finished writing, run through your solution for syntax errors and then run through it again with some edge case scenario to make sure it works correctly. 
+
+The interviewer might ask you questions about your solutions (e.g. the complexity of your solution) or challenge it, or build the next task on top of what you have already built. 
+
+Finally, in the end you will likely have time to ask your questions, which is also quite an important part of an interview, so you should think in advance about these questions.
 
 ### Resources
 
