@@ -8,6 +8,7 @@
 - [Graduate Jobs](#graduate-jobs)
 - [Writing a CV](#writing-a-cv)
 - [Ace the interview](#ace-the-interview)
+- [St Andrew Resources](#st-andrews-resources)
 - [Past interns](#past-interns)
 
 ## Welcome
@@ -149,6 +150,10 @@ Finally, in the end you will likely have time to ask your questions, which is al
 This is a list of books and online resources that may come handy when preparing for an interview.
 
 - https://github.com/jwasham/google-interview-university
+
+## St Andrews Resources
+
+We have setup a coding competition platform for the school. Sign up to CodeWars.com and set your clan to "University of St Andrews" (note: no dot). Good luck!
 
 ## Past Interns
 <a href="#"><sub><sup>back to top</sub></sup></a>
