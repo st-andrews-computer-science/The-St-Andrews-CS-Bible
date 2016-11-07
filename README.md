@@ -1,4 +1,6 @@
-# internships-jobs-guide
+# The St Andrews CS Bible
+
+*A Bible on how to ace interviews for CS students living in the bubble*
 
 ## Table of Contents
 
@@ -15,13 +17,30 @@
 
 <a href="#"><sub><sup>back to top</sub></sup></a>
 
-This guide is here to help you write your CV, nail your technical interviews and ultimately receive internship and job offers from your dream work place!
+Welcome to **"The St Andrews CS Bible"**. This is a comprehensive guide on how to ace internships/jobs interviews and a bit more, **written by students for students**. 
 
 If you are a student and want to intern or work in Technology, you will probably have already heard about the fact that it is a pretty specific field and, in order to get a job, you need to show a different set of skills and go through quite a different screening and interview process than someone who applies for a job in any other field.
 
-The main goal of this guide is to help you, the students of St Andrews, discover new opportunities from your peers and St Andrews Computer Science alumni and learn how to approach and achieve a goal of getting a job in your desired company by improving your CV and practising solving problems which are typically offered in a technical interview.
+The main goal of this guide is to help you, in particular the students of St Andrews, to discover new opportunities from your peers and St Andrews Computer Science alumni and learn how to approach and achieve the goal of getting a job in your dream company. Usually, it is all about improving your CV and practising solving problems which are typically offered in a technical interview. We will cover all of this and more in this book.
 
-The most important feature of this guide: you are more than welcome to add your own experiences, comments and opinions! We want this document to be a live and ever-growing helper created by people who can share their experience and knowledge!
+You can find the **PDF version** of this guide at this [link](https://gitprint.com/st-andrews-computer-science/internships-jobs-guide).
+
+### Who is doing this?
+
+St Andrews Computer Science students (from BSc to PhD). Contributions are more than welcome. You can contributed in the following ways:
+
+- write chapters/sections
+- help us improve ~~terrible~~ awesome English
+- add suggestions and opinions
+- add your own experience
+
+Check the [contribution guide](CONTRIBUTING.md) for more info on how to do so. 
+
+We want this document to be a live and ever-growing helper created by people who can share their experience and knowledge!
+
+### Terms of Use
+
+**"The St Andrews CS Bible"** is not an official book of The University of St Andrews. We do not take any responsibility and we are not liable for any damage caused through use of this guide/book/bible.
 
 ## Internships
 <a href="#"><sub><sup>back to top</sub></sup></a>
