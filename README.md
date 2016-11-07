@@ -87,7 +87,9 @@ Scotland has also a large pool of tech companies. Check the [Scottich Tech Map](
 
 #### How do I get started?
 
-Even before you start applying: start practising sample interview problems, expand your knowledge, participate in competitions and hackathons.
+First: work hard on your degree and try to get good grades, possibly a first. It will a major factor when looking for a job in the future.
+
+Even before you start applying for an internship: start practising sample interview problems, expand your knowledge, participate in competitions and hackathons.
 
 Once you know what company to apply for: see what they want and compare it to what you can offer at the moment. You might need no learn something on your own or get more practice. Again, practice interview questions no matter what. You will need to polish up your CV or write it if you haven't written it yet. 
 
@@ -163,6 +165,18 @@ Once you have finished writing, run through your solution for syntax errors and 
 The interviewer might ask you questions about your solutions (e.g. the complexity of your solution) or challenge it, or build the next task on top of what you have already built. 
 
 Finally, in the end you will likely have time to ask your questions, which is also quite an important part of an interview, so you should think in advance about these questions.
+
+### How can I expand my knowledge?
+
+This is a very good question. You may have prepared a lot for your interview by coding BFS hundreds of times, but that is not enough sometimes. Employers like to see people who are **into** computer science. They like it a lot. 
+
+TODO
+- blogs
+- books
+- study hard
+- network
+- talk to people
+- side projects
 
 ### Resources
 
