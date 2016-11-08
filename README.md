@@ -170,7 +170,9 @@ Finally, in the end you will likely have time to ask your questions, which is al
 
 This is a very good question. You may have prepared a lot for your interview by coding BFS hundreds of times, but that is not enough sometimes. Employers like to see people who are **into** computer science. They like it a lot. 
 
-TODO
+What does it take to be **into** computer science? Passion, commitment and patience. First of all, you need to love what you do. It is okay to be bored, annoyed, tired sometimes, but you should like doing computer science: solving problems, doing some coding, thinking of new solutions to problems, understanding how systems work and so on. You should then be committed and have patience. There are no shortcuts, you need to study, read, listen, work hard on improving yourself. 
+
+There are different ways to learn more (in no particular order):
 - blogs
 - books
 - study hard
@@ -201,14 +203,19 @@ Q: How did you apply ?
 A: The first process involved sending a CV with a covering letter. 
 
 Q: How were you selected ?
-A: After sending the CV (see above), I got an answer by email in order to schedule a phone interview. After 2-3 days I was contacted for an on-site interview at their office in Edinburgh. 
+A: After sending the CV (see above), I got an answer by email in order to schedule a phone interview.   
+After 2-3 days I was contacted for an on-site interview at their office in Edinburgh. 
 
-The phone interview was mainly about my career plans and my computer science related interests and skills. I was also asked some technical questions, which did not require coding or algorithms. 
+The phone interview was mainly about my career plans and my computer science related interests and skills.   
+I was also asked some technical questions, which did not require coding or algorithms. 
 
-The on-site interview was split into three sub-interviews of about 40-60 minutes each. The main topics of the interviews were problem solving, past projects critical discussions and software engineering (Agile, TDD, Scrum, etc)
+The on-site interview was split into three sub-interviews of about 40-60 minutes each.   
+The main topics of the interviews were problem solving, past projects critical discussions and  
+software engineering (Agile, TDD, Scrum, etc)
 
 Q: Why were you successful?
-A: Being passionate is what probably helped me to be successful the most. This was my first experience in industry and the the first impact was hard. What matters is not giving up. 
+A: Being passionate is what probably helped me to be successful the most.  
+This was my first experience in industry and the the first impact was hard. What matters is not giving up. 
 
 The good amount of work and deadlines at University has also helped me to handle the stress.
 
@@ -220,7 +227,9 @@ A:
 - Being able to quickly switch from one programming language to another. Flexibility is a skill that I learned especially in honours years. 
 
 Q: What have you been doing?
-A: I have been working mainly on two projects. The first one involved optimising high performance general networking library for one of their main products. The second project involved prototyping a new algorithms for another one of their main products. 
+A: I have been working mainly on two projects. The first one involved optimising high performance general   
+networking library for one of their main products.  
+The second project involved prototyping a new algorithms for another one of their main products. 
 
 I was working on both projects at the same time, giving priority to the first one since the code was actually to be pushed to production. 
 
