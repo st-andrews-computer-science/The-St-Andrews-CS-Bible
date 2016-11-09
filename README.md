@@ -187,6 +187,7 @@ This is a list of books and online resources that may come handy when preparing 
 - https://github.com/jwasham/google-interview-university
 
 ## St Andrews Resources
+<a href="#"><sub><sup>back to top</sub></sup></a>
 
 We have setup a coding competition platform for the school. Sign up to CodeWars.com and set your clan to "University of St Andrews" (note: no dot). Good luck!
 
