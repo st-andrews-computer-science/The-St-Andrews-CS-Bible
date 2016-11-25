@@ -172,19 +172,38 @@ This is a very good question. You may have prepared a lot for your interview by 
 
 What does it take to be **into** computer science? Passion, commitment and patience. First of all, you need to love what you do. It is okay to be bored, annoyed, tired sometimes, but you should like doing computer science: solving problems, doing some coding, thinking of new solutions to problems, understanding how systems work and so on. You should then be committed and have patience. There are no shortcuts, you need to study, read, listen, work hard on improving yourself. 
 
-There are different ways to learn more (in no particular order):
-- blogs
-- books
-- study hard
-- network
-- talk to people
-- side projects
+There are different ways to learn more. Here is a short (in no particular order) list:
+- Blogs
+  - Martin Fowler - http://martinfowler.com/
+  - Julia Evans - https://jvns.ca/
+  - Antirez - http://antirez.com/latest/0
+  - Mary Rose Cook - https://maryrosecook.com/
+  - Fabien Sanglard - http://fabiensanglard.net/
+  - Company blogs
+    - Slack - https://slack.engineering/
+    - Dropbox - https://blogs.dropbox.com/tech/
+    - Github - http://githubengineering.com/
+    - AWS - https://aws.amazon.com/blogs/aws/
+    - Youtube - https://youtube-eng.googleblog.com/
+- News websites
+  - HN - news.ycombinator.com
+  - Reddit /r/programming - https://www.reddit.com/r/programming/
+- Podcasts
+  - Software Engineering Daily - https://softwareengineeringdaily.com
+- Books
+- Study hard
+- Network and Talk to people: do this during hackatons, school events, seminars, DLS talks, etc.
+- Side projects: these can vary from very simple projects, to hackaton projects, writing a script to automate some tasks, starting your own open source project or joining one, developing a mobile app, and so on. Remember, the *side* in *side project* means that you should not spend an enormous amount of time at the cost of getting bad grades or not having a social life. Consider also the option to *make* something with some of your peers or merely ask advice to other people within the school (other students, PhD students, lecturers and professors, etc).
+
+Feel free to copy this list or just start making your own! None would expect you to read all those blogs or listen that many podcasts. However, it is a good idea to check them from time to time. This is not just about being great for the interview, but also doing great once you are working. Computer Science evolves at a very fast pace, so make sure that you do not fall behind.
 
 ### Resources
 
 This is a list of books and online resources that may come handy when preparing for an interview.
 
-- https://github.com/jwasham/google-interview-university
+- Google Interview, a daily plan to become a Google Engineer - https://github.com/jwasham/google-interview-university
+- Awesome-interview-questions - https://github.com/MaximAbramchuck/awesome-interview-questions
+- A list of projects that you could do to improve your coding and problem solving skills: https://github.com/karan/Projects
 
 ## St Andrews Resources
 <a href="#"><sub><sup>back to top</sub></sup></a>
